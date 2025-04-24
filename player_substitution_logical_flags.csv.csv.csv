@@ -1,0 +1,12 @@
+Player Name,Position,Role,HR (bpm),Speed (km/h),Breathing (/min),Temp (°C),Photo,player_id,match_minute,avg_speed,distance_covered,involvement_score,top_speed,fatigue_score,substitution_made,speed_drop_from_peak,distance_last_5min,involvement_last_5min,position,team_score_diff,sub_available,heart_rate,acceleration,collisions
+Ahmed Al-Salem,Midfielder,,171.0,8.9,24.0,38.2,ahmed.png,Player_1,52.0,29.56,77.99,0.0,,1.85,1.0,-0.4,32.27,,Midfielder,0.0,0.0,180.0,1.78,2.0
+Saeed Al-Qahtani,Defender,Core Defender,164.0,7.2,22.0,38.5,saeed.png,Player_2,15.0,25.39,53.27,1.0,30.2,9.7,0.0,-0.31,46.68,2.0,Forward,1.0,0.0,151.0,2.84,0.0
+Khalid Al-Harbi,Forward,Target Striker,,9.1,25.0,39.1,khalid.png,Player_3,72.0,30.05,118.16,3.0,28.61,,1.0,-0.84,34.3,2.0,Forward,-1.0,0.0,157.0,2.31,
+Faisal Al-Dosari,Midfielder,Support Mid,159.0,8.1,20.0,37.8,faisal.png,Player_4,61.0,31.57,66.29,0.0,30.48,9.39,0.0,-1.44,46.17,0.0,Midfielder,3.0,0.0,131.0,2.71,0.0
+Majed Al-Shahrani,Winger,Rotation Player,148.0,8.8,19.0,37.5,majed.png,Player_5,21.0,25.01,56.34,3.0,28.17,8.95,0.0,0.19,43.25,2.0,,3.0,0.0,,2.84,2.0
+Turki Al-Rashed,Defender,Backup Defender,153.0,6.9,21.0,37.9,turki.png,Player_6,83.0,31.95,93.29,,32.55,5.98,1.0,0.08,,0.0,Forward,-3.0,0.0,174.0,1.98,1.0
+,,Key Goalkeeper,138.0,3.0,18.0,37.3,abdul.png,Player_7,87.0,,76.77,1.0,29.29,9.22,1.0,-0.33,9.29,2.0,Defender,0.0,1.0,182.0,1.67,3.0
+Nasser Al-Anazi,Forward,Sub Striker,152.0,8.6,,38.0,nasser.png,Player_8,75.0,29.28,118.83,0.0,31.31,0.88,0.0,-1.44,21.69,1.0,Forward,1.0,0.0,135.0,1.84,2.0
+Rakan Al-Fahad,Midfielder,Key Box-to-Box,169.0,9.3,26.0,38.7,rakan.png,,,25.05,,1.0,29.56,1.96,,,35.1,2.0,Forward,,1.0,157.0,,0.0
+Bader Al-Mutairi,Defender,Starter Defender,158.0,7.3,20.0,38.1,bader.png,Player_10,88.0,25.16,110.2,4.0,30.6,0.45,1.0,1.35,34.97,0.0,Midfielder,2.0,0.0,157.0,2.73,3.0
+Youssef Al-Otaibi,Winger,Starter Winger,162.0,,23.0,,,Player_11,24.0,28.67,97.62,1.0,30.73,3.25,1.0,1.66,31.61,0.0,Midfielder,1.0,,173.0,2.79,0.0
